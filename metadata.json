@@ -1,0 +1,6 @@
+{
+  "name": "JAVIRUS AI — Luxury 3D Intelligence",
+  "description": "Luxury 3D conversational interface powered by JAVIRUS AI under the vision of HORIX.AI. Think Smarter. Work Faster. Build the Future.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
